@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">GroceryApp</string>
+
+    <string name="To_the_worldls_no1_grocery_app_android_and_iOS._We_deliver_everything_on_time.">To the worlds no1 grocery app for  android\n and iOS. We deliver everything on time.</string>
+    <string name="Welcome_back_">Welcome back!</string>
+    <string name="Welcome">Welcome</string>
+    <string name="Login">Login</string>
+    <string name="Sign_in_to_your_account_.">Sign in to your account.</string>
+    <string name="Don_t_have_an_account_Signup">Don\'t have an account?Signup</string>
+    <string name="Forgot_Password">Forgot Password</string>
+    <string name="Create_an_account">Create an account</string>
+    <string name="Already_have_an_account_Login">Already have an account?Login</string>
+    <string name="Connect_using_Google">Connect using Google</string>
+    <string name="Signup">Signup</string>
+    <string name="Password_Recovery">Password Recovery</string>
+    <string name="Enter_your_email_and_will_send_you_instruction_on_how_to_reset_it.">Enter youremail and will send you\n instruction on how to reset it.</string>
+    <string name="Email_address">Email address</string>
+    <string name="Send_link">Send link</string>
+    <string name="Password">Password</string>
+</resources>
